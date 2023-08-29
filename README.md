@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 👋
 
-<!--
-**gatriel12/gatriel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-meu nome é gabriel
+-estoume desenvolvendo no javascript
+-utilizo este espaço para compartilhaçao do meu projeto desenvolvido
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### voce entrar em contato comigo 📫
+
+gabriel.skrobute@escola.pr.gov.br
+
+![](https://tenor.com/pt-BR/view/dino-traktor-farmer-dinasaurier-gif-19538160)
